@@ -1,0 +1,15 @@
+*{
+
+font-family: 'Open Sans', sans-serif;
+}
+.banner{
+        background:aliceblue url('images/banner/banner1.png')
+}
+.h-btn{
+        
+        color: aliceblue;
+        background-color: chocolate;
+        padding: 5px;
+        border-radius: 5px;
+        font-size: 20px;
+}
