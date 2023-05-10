@@ -17,11 +17,22 @@ font-family: 'Open Sans', sans-serif;
         padding: 10px;
         border-radius: 5px;
         font-size: 15px;
+        /* display: none; */
+        /* visibility: hidden; */
 }
 .watch{
         background:linear-gradient(to right, rgba(26, 244, 131, 0.7), rgba(237, 11, 7, 0.7)),
         url('images/icons/watch.png');
         margin: 200px;
+}
+.options{
+        border: solid 2px red;
+        border-radius: 50px;
+        background-color: antiquewhite;
+        height: 100px;
+        text-align: center;
+        
+
 }
 .footer{
         display: flex;
